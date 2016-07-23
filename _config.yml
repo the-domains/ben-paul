@@ -12,3 +12,8 @@ color:
     - '#6B574B'
     - '#160600'
 name: ben paul
+navigation:
+  - id: test
+    url: test
+    name: test
+    type: external
